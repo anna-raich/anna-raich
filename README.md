@@ -2,7 +2,7 @@
 - 👀 I’m interested in **technical writing with docs-as-a-code approach**
 - 🌱 I’m currently learning **APIs and best documentation practices**
 - 💞️ I’m willing to collaborate on docs for open-source projects
-- 📫 How to reach me - [LinkedIn profile](linkedin.com/in/anna-raychuk/)
+- 📫 How to reach me - [LinkedIn profile](https://www.linkedin.com/in/anna-raychuk/)
 
 <!---
 anna-raich/anna-raich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
